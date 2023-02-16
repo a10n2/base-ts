@@ -1,0 +1,15 @@
+{
+  "name": "base-ts",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "a10n2",
+  "license": "MIT",
+  "devDependencies": {
+    "@a10n2/eslint-config-typescript": "^0.0.3",
+    "eslint": "^8.34.0",
+    "typescript": "^4.9.5"
+  }
+}

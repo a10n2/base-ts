@@ -1,0 +1,9 @@
+node_modules
+
+# editor files
+.idea
+.vscode/*
+!.vscode/settings.json
+
+# bundle
+dist
