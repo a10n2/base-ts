@@ -21,7 +21,7 @@
   "author": "a10n2",
   "license": "MIT",
   "devDependencies": {
-    "@a10n2/eslint-config-typescript": "^0.0.3",
+    "@a10n2/eslint-config-typescript": "^0.0.4",
     "eslint": "^8.34.0",
     "typescript": "^4.9.5",
     "unbuild": "^1.1.2"

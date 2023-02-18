@@ -1,34 +1,34 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@a10n2/eslint-config-typescript': ^0.0.3
+  '@a10n2/eslint-config-typescript': ^0.0.4
   eslint: ^8.34.0
   typescript: ^4.9.5
   unbuild: ^1.1.2
 
 devDependencies:
-  '@a10n2/eslint-config-typescript': 0.0.3_7kw3g6rralp5ps6mg3uyzz6azm
+  '@a10n2/eslint-config-typescript': 0.0.4_7kw3g6rralp5ps6mg3uyzz6azm
   eslint: 8.34.0
   typescript: 4.9.5
   unbuild: 1.1.2
 
 packages:
 
-  /@a10n2/eslint-config-base/0.0.3_eslint@8.34.0:
-    resolution: {integrity: sha512-GpWk/ljUmXFjSVLbXTwcqJJaiAOBOWS11g1oUTrDOfAw1uXBm8xNSaw3/fIqfbBUW2owb+0/PdHOtyviM9HSCw==}
+  /@a10n2/eslint-config-base/0.0.4_eslint@8.34.0:
+    resolution: {integrity: sha512-3LFvCPDySSb71p/e6PHjxa2EJ4heLUZVMCs8jh/TR8+ig7WS4hsBCh6Ub1snvQMohgoJ0T51EhYQpLvFNNfTGA==}
     peerDependencies:
       eslint: '>= 7'
     dependencies:
       eslint: 8.34.0
     dev: true
 
-  /@a10n2/eslint-config-typescript/0.0.3_7kw3g6rralp5ps6mg3uyzz6azm:
-    resolution: {integrity: sha512-D6ANg5Gpz6YzkCAmet4Ho5tHe5pyRR8HKx3p2ewggiSrKspzhNu6hsAiV+sDjboO/azdxOsWwLaqzlGk1nbT3g==}
+  /@a10n2/eslint-config-typescript/0.0.4_7kw3g6rralp5ps6mg3uyzz6azm:
+    resolution: {integrity: sha512-Br0zQBPNDkr750lcCKp+3l+uJm7ilefbuj9zp+TfIfSLSo6SCZ3dti5QaRShT2quXNGhSZIIYLx9e+uo7r6DwA==}
     peerDependencies:
       eslint: '>= 7'
       typescript: ^4.9.5
     dependencies:
-      '@a10n2/eslint-config-base': 0.0.3_eslint@8.34.0
+      '@a10n2/eslint-config-base': 0.0.4_eslint@8.34.0
       '@typescript-eslint/eslint-plugin': 5.52.0_6cfvjsbua5ptj65675bqcn6oza
       '@typescript-eslint/parser': 5.52.0_7kw3g6rralp5ps6mg3uyzz6azm
       eslint: 8.34.0
